@@ -1,6 +1,6 @@
 # Toronto Gentrification Explorer
 
-**[Live app →](https://arpan-shrma.shinyapps.io/toronto_gentrification_app/)**
+**[Landing Page →](https://arpan-shrma.github.io/canconnect/)**
 
 An interactive spatial forecasting dashboard that tracks gentrification risk across
 Toronto's 25 wards from 2023 through 2028, built to turn a static risk forecast into
