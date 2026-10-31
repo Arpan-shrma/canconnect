@@ -69,5 +69,10 @@ DT · viridis · shinyapps.io
 
 ## Author
 
-Built by **Arpan Sharma** — [LinkedIn](https://linkedin.com/in/arpan-shrma) ·
+Built by 
+
+**Arpan Sharma** — [LinkedIn](https://linkedin.com/in/arpan-shrma) ·
 [GitHub](https://github.com/Arpan-shrma) · [Portfolio](https://datascientistarpan.com)
+
+**Harsh Tiwari** - [LinkedIn](https://linkedin.com/in/harsht1711) ·
+[GitHub](https://github.com/harshtiwari7110)
